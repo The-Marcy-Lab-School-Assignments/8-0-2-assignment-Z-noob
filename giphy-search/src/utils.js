@@ -14,3 +14,5 @@ export const handleFetch = async (url, options = {}) => {
     return [null, error];
   }
 };
+
+export default handleFetch; 
