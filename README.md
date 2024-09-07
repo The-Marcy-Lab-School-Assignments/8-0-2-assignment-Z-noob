@@ -1,6 +1,6 @@
 # 8-0-2-assignment
 
-DEPLOYED LINK: [link here https://eight-0-2-assignment-1let.onrender.com](https://eight-0-2-assignment-1let.onrender.com)
+DEPLOYED LINK: [https://eight-0-2-assignment-1let.onrender.com](https://eight-0-2-assignment-1let.onrender.com)
 
 In this assignment, you will use Express as a Middleman for API requests. Refer to the [lecture notes](https://github.com/The-Marcy-Lab-School/8-0-2-express-api-middleman) for support.
 
